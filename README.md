@@ -17,13 +17,17 @@
 编码agent：pi
 网络学习：clash verge +自建vps节点
 
+vibe coding：
+https://github.com/xiaoxiaoshuo/SNI-Proxy 直连google的代理工具
+https://github.com/xiaoxiaoshuo/screen_reminder  桌面提醒工具（主打内存占用少
+https://github.com/xiaoxiaoshuo/clickhouse-DAS  clickhouse sql审计的可视化系统
+https://github.com/xiaoxiaoshuo/deepseekProxy   openai ai接口代理工具
 
 
 
-
-
+爱好：
 业余喜欢研究点股票
-坚持运动不颓废
+坚持散步不颓废
 
 
 
