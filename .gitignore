@@ -1,0 +1,6 @@
+# 密钥/敏感文件
+key
+*.key
+keys
+*.pem
+*.priv
