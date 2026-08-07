@@ -1,54 +1,97 @@
-AI方向
-面试：需要有项目经验，除非失业的早，不然至少26年失业的这批人基本没有项目
+# AI 方向 — 零散思考脉络整理
 
-现在基本上是智能体agent，大爆发很多，，2025年3的manus， 有的25年开发做的 https://sidereus-ai.com/workbench/workflow 应该是dify （扣子），rag那波
+---
 
-我是属于 今年年初openclaw 这波
+## 面试与项目背景
 
-所以manus 和openclaw pi 是很好的学习研究对象，
+- 面试需要有项目经验。
+- 除非失业得早，不然至少 26 年失业的这批人基本没有项目。
 
+---
 
+## 当前热点：智能体（Agent）大爆发
 
-最近更是爆发：dbx，ego，一级群里直接搞office的，
-github 热榜，应该每周都有新的
+- 2025 年 3 月 **Manus** 出现。
+- 有的 25 年开发做的：[Sidereus AI Workbench](https://sidereus-ai.com/workbench/workflow) — 应该是 Dify（扣子）、RAG 那波。
+- 我属于今年年初 **OpenClaw** 这波。
 
-第一个：看到传统软件不爽的，直接ai native 直接搞，特别是收费的还做的不好的这种，我也早就有着想法了，先github冲榜
+所以 **Manus** 和 **OpenClaw + Pi** 是很好的学习研究对象。
 
-第二：输入新的吧，比如sidereus-ai.com 也不是很了解，这种科研平台的作业软件
+---
 
-第三：就是熟悉的codex，编程类的
+## 近期爆发方向
 
-总之在办公自动化，各个行业，垂直类的有点机会，通用类的我感觉没啥机会，manus 和openclaw，就是通用类的
+- **dbx**、**Ego** — 一级群里直接搞 Office 的。
+- **GitHub 热榜** — 应该每周都有新的。
 
-通用类的就是就是操作系统自动化，包含浏览器自动化 （重要），另一个重点就是office， 这一定是个大方向，可以随者这个走，基本就是随着硅谷走
+---
 
-GUI操作系统，这块没有怎么研究，浏览器自动化有点研究，
+## 看到的几种机会类型
 
-https://manus.im/docs/zh-cn/features/wide-research
+1. **看到传统软件不爽的**，直接 AI Native 搞，特别是收费还做得不好的那种。我也有这想法了，先 GitHub 冲榜。
+2. **输入新的**，比如 [Sidereus AI](https://sidereus-ai.com) — 科研平台的作业软件，不是很了解。
+3. **熟悉的 Codex** — 编程类的。
 
-这个也是一个重要研究方向，信息收集爬虫，一个解决怎么干的问题，一个解决干的问题，基本白领工作都闭环了，光这个领域就不少要学的，
-但是做实验的成本也有点高，这种待有至少几百次测试吧，多个免费平台试，google等
+---
 
-goole可以干
-大模型公司可以干
-智能体公司也可以干
+## 通用 vs 垂直的判断
 
+- **办公自动化、各个行业** — 垂直类的有点机会。
+- **通用类** — 我感觉没啥机会，Manus 和 OpenClaw 就是通用类的。
 
+通用类就是**操作系统自动化**，包含：
+- **浏览器自动化**（重要）
+- **Office**（另一个重点）
 
+这一定是个大方向，可以随着这个走，基本就是随着硅谷走。
 
-现在ai，阶段参考梁文峰得AGI路线，认清ai的能力，基本就有事做了，关注ai测评，长任务类的泛化能力，持续学习的记忆能力（基本上当前的热点方向）
+GUI 操作系统这块没有怎么研究，浏览器自动化有点研究。
 
+---
 
-最重要的铲子：aidevops （核心加速器），最近的qn，还有一个
- https://github.com/sopaco （快速分析项目）
+## 信息收集 / 爬虫方向（重要）
 
+[Manus 深度研究功能](https://manus.im/docs/zh-cn/features/wide-research)
 
+这也是一个重要研究方向：**信息收集爬虫**。
 
-https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29752
-https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30878
-https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/31817
+- 一个解决**怎么干**的问题，一个解决**干什么**的问题，基本白领工作都闭环了。
+- 光这个领域就不少要学的，但是做实验的成本也有点高，这种得至少几百次测试，多个免费平台试，Google 等。
+- Google 可以干，大模型公司可以干，智能体公司也可以干。
 
-现在策略1，不管传统岗位，学agent，在找个小公司继续干
-策略2:找传统岗位苟者
+---
 
-如果学agent，怎么学
+## AI 能力阶段与关注点
+
+- 现在 AI 阶段参考 **梁文峰的 AGI 路线**，认清 AI 的能力，基本就有事做了。
+- 关注 **AI 测评**、**长任务类的泛化能力**、**持续学习的记忆能力**（基本上当前的热点方向）。
+
+---
+
+## 最重要的"铲子"：开发加速工具
+
+**AI DevOps**（核心加速器），最近的 **qn**，还有一个：
+
+[Sopaco](https://github.com/sopaco) — 快速分析项目
+
+---
+
+## 一些相关岗位链接
+
+- [快手 — 社会招聘 29752](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/29752)
+- [快手 — 社会招聘 30878](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30878)
+- [快手 — 社会招聘 31817](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/31817)
+
+---
+
+## 当前策略思考
+
+**策略 1**：不管传统岗位，学 Agent，再找个小公司继续干。
+
+**策略 2**：找传统岗位苟着。
+
+---
+
+## 遗留问题
+
+> 如果学 Agent，怎么学？
