@@ -4,3 +4,7 @@ key
 keys
 *.pem
 *.priv
+
+# 依赖与本地浏览器数据
+node_modules/
+.pi/

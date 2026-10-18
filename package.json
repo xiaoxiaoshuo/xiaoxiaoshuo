@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@deepseek-ai/dsh": "0.2.0-rc.2"
+  },
+  "overrides": {
+    "node-addon-require-builtin": "0.1.6",
+    "node-addon-require-builtin-darwin-x64": "0.1.6"
+  }
+}
